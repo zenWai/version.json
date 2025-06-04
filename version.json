@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
-  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ9OrHz0uYsb4I6LtjCci8FgYSMkBKnZRhl7NET",
-  "file_size": 305899228,
+  "version": "1.0.4",
+  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ9X5v028nv3qSesuYUhoKQ2aNABLIncZERi0HG",
+  "file_size": 305899283,
   "release_date": "2025-06-04",
   "release_notes": "- Add your release notes here\n- Bug fixes\n- New features",
-  "checksum": "cf3ce6a025ad5ff85803d41bb8f150b63726152a2121e374e2fd2e717e920f36",
+  "checksum": "baa2ea8b829624afdb64f9541e0994442cb216d9b9f667a0e73e41a24ff4153d",
   "required": true
 }

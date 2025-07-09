@@ -1,9 +1,9 @@
 {
-  "version": "1.0.6",
-  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ9XjhkZeVnv3qSesuYUhoKQ2aNABLIncZERi0H",
-  "file_size": 513682396,
-  "release_date": "2025-06-28",
+  "version": "1.0.8",
+  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ91HvDIiEQ5qOIvmlXxhZMeWwKHBPFcSbsan74",
+  "file_size": 514328090,
+  "release_date": "2025-07-09",
   "release_notes": "- transits\n-[K][L] info for quests\n- Market feature functional\n- Fixes for marker sizes\n- Quests have Possible Spawn Locations\n- All Configs are now persistent after any updates",
-  "checksum": "1eb4945e33011d36f9f1bbe2749ab75ce02a6d5a20478e236794a18965705e5b",
+  "checksum": "fc6c2ee09bb56fd42d8708cd25fdee52d3c24a99e9cae21b8ca1d51aed0c433a",
   "required": true
 }

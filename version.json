@@ -1,9 +1,9 @@
 {
-  "version": "1.0.8",
-  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ91HvDIiEQ5qOIvmlXxhZMeWwKHBPFcSbsan74",
-  "file_size": 514328090,
-  "release_date": "2025-07-09",
-  "release_notes": "- transits\n-[K][L] info for quests\n- Market feature functional\n- Fixes for marker sizes\n- Quests have Possible Spawn Locations\n- All Configs are now persistent after any updates",
-  "checksum": "fc6c2ee09bb56fd42d8708cd25fdee52d3c24a99e9cae21b8ca1d51aed0c433a",
+  "version": "1.1.0",
+  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ9TFaL6zMofuTYkK4VsJmyBEeha7LrGFntvNMI",
+  "file_size": 514988071,
+  "release_date": "2025-07-15",
+  "release_notes": "- Version 1.1.0 Release\n- Added the patch new items and their loot locations\n- All extracts have images of the extract location\n- Ability to toggle always on top\n- Ability to write and save personal notes per-map and general notes.\n- Fix some minor bugs for user experience, join discord for more info\n- Several performance tweaks and memory consumption decrease.",
+  "checksum": "02edb60ee08b9c6222e63682b5e89e93e76feb73729634583c4270ece6563ca9",
   "required": true
 }

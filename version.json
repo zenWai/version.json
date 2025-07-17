@@ -1,9 +1,9 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ9TFaL6zMofuTYkK4VsJmyBEeha7LrGFntvNMI",
-  "file_size": 514988071,
-  "release_date": "2025-07-15",
-  "release_notes": "- Version 1.1.0 Release\n- Added the patch new items and their loot locations\n- All extracts have images of the extract location\n- Ability to toggle always on top\n- Ability to write and save personal notes per-map and general notes.\n- Fix some minor bugs for user experience, join discord for more info\n- Several performance tweaks and memory consumption decrease.",
-  "checksum": "02edb60ee08b9c6222e63682b5e89e93e76feb73729634583c4270ece6563ca9",
+  "version": "1.1.1",
+  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ9Ojq9nZYsb4I6LtjCci8FgYSMkBKnZRhl7NET",
+  "file_size": 514999599,
+  "release_date": "2025-07-17",
+  "release_notes": "- Version 1.1.1 Release\n- Fix issues with the auto change floor according to player position\nTasks updated:\n- New tasks added including the ak-50 task quest\n- Some task locations improved\n- Increased the number of tasks with images\n- Several minor fixes",
+  "checksum": "a6718c030a7c5bd7c193c616216c52cf58a2bcc84b4a90574558f1cd7123c77b",
   "required": true
 }

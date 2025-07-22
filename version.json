@@ -1,9 +1,9 @@
 {
-  "version": "1.1.1",
-  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ9Ojq9nZYsb4I6LtjCci8FgYSMkBKnZRhl7NET",
-  "file_size": 514999599,
-  "release_date": "2025-07-17",
-  "release_notes": "- Version 1.1.1 Release\n- Fix issues with the auto change floor according to player position\nTasks updated:\n- New tasks added including the ak-50 task quest\n- Some task locations improved\n- Increased the number of tasks with images\n- Several minor fixes",
-  "checksum": "a6718c030a7c5bd7c193c616216c52cf58a2bcc84b4a90574558f1cd7123c77b",
+  "version": "1.1.2",
+  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ9HvtlVzJJr3P4NvwfczRS8jDnTgo9hFEXqUti",
+  "file_size": 515083291,
+  "release_date": "2025-07-22",
+  "release_notes": "- Version 1.1.2 Release\n- New option on settings to select the tarkov screenshots folder",
+  "checksum": "3572fcc70f444ac07288aa42dfa3da4468fcfe1ef9bbebdb4238b156135545eb",
   "required": true
 }

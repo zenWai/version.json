@@ -1,9 +1,9 @@
 {
-  "version": "1.1.2",
-  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ9HvtlVzJJr3P4NvwfczRS8jDnTgo9hFEXqUti",
-  "file_size": 515083291,
-  "release_date": "2025-07-22",
-  "release_notes": "- Version 1.1.2 Release\n- New option on settings to select the tarkov screenshots folder",
-  "checksum": "3572fcc70f444ac07288aa42dfa3da4468fcfe1ef9bbebdb4238b156135545eb",
+  "version": "1.1.3",
+  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ9SnAdFd087aZDMG2JyEILl56bFmQcr8zhStek",
+  "file_size": 517402548,
+  "release_date": "2025-08-01",
+  "release_notes": "- Version 1.1.3 Release\n- Tarkov market feature - Compare trader prices vs flea market. Track restock timers & favorites. Add items as waiting for Tarkov trader restock.\n- Quest Objectives - Toggle individual objectives. Added all Extract/transit quests and objectivesnow shown on map. Helper info visible for all Tarkov quests and tasks.\n- Player marker size and direction of the player is now customizable with different sizes per-map basis.\n- Fixes on notes feature for taking and saving notes per tarkov map and for general notes, now works similar to a notepad.\n- Boss Filter - Select/deselect individual bosses per map.\n\nFull patch notes available on discord",
+  "checksum": "68f21674c13a074d2c3a01d469cb8b3bc05b44a999ecaaeb1bf9ea220e5d36d4",
   "required": true
 }

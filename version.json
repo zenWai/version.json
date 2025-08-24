@@ -1,10 +1,11 @@
 {
-  "version": "1.1.4",
-  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ94bPQj5fTKZt74XkVHSyaiWDv8ExPlpq5AuLm",
-  "file_size": 517254771,
-  "release_date": "2025-08-02",
-  "release_notes": "- Version 1.1.4 Release\n- Revert player marker to 1.1.2 version, all other 1.1.3 features are in effect\n- Fixes on the Tarkov Market:Flea Market new feature - USD and EUR show the exact correct fee/restock",
-  "checksum": "585efc6f77746ccfaa9cd5dd705a3895a275bc32a9f5c8c77946e5df43097921",
+  "version": "2.0.0",
+  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ9QJIEw03ap7HXhCkryO3NuLvS0ZGzF8TPdMmn",
+  "file_size": 576638426,
+  "release_date": "2025-08-24",
+  "release_notes": "- Version 2.0.0\n\n- This version introduces a quest tree with info for all quests and import from game logs to build the tree\n- Right click on your quests at the left side panel of the map to mark quests as completed or active\n- Introduction of phone version of the maps\n- Right click your map to access this features\n\n- Join Discord for more information about the update",
+  "checksum": "63264508bac741b85e11ce729071ab71bb11816be475a33acd2e73cc616a07c0",
   "required": true
 }
+
 

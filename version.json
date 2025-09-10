@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0",
-  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ9QJIEw03ap7HXhCkryO3NuLvS0ZGzF8TPdMmn",
-  "file_size": 576638426,
-  "release_date": "2025-08-24",
-  "release_notes": "- Version 2.0.0\n\n- This version introduces a quest tree with info for all quests and import from game logs to build the tree\n- Right click on your quests at the left side panel of the map to mark quests as completed or active\n- Introduction of phone version of the maps\n- Right click your map to access this features\n\n- Join Discord for more information about the update",
-  "checksum": "63264508bac741b85e11ce729071ab71bb11816be475a33acd2e73cc616a07c0",
+  "version": "2.0.1",
+  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ9VOpx61Y9AWBSvFsapl8oKz1qdCweyx0MU4mG",
+  "file_size": 588637756,
+  "release_date": "2025-09-02",
+  "release_notes": "- Version 2.0.1\n\n-This update brings internationalization to the quests - many different languages such as spanish brazilian french german russian and a lot more\n- A new keybind can be set to hide or show the map, this is good for minimap users\n- A new mode that sets minimap on or off found on the menu\n- A new setting to disable auto-center map on each new position\n- Some quick actions on top panel for easy access including + and - marker sizes\n- Quests on the map panel now provide visual indication if they are active\n- Fix issue on some objectives not visually updating as completed\n- Some fixes on new quest tree feature including initial load speed.\n-Join Discord for more information about the update",
+  "checksum": "6b094df778a43e93b6d28a9763b9e3879b2046fa69794799445ae538cebce1de",
   "required": true
 }

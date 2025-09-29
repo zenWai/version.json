@@ -1,10 +1,9 @@
 {
-  "version": "2.0.4",
-  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ9O8frW6Ysb4I6LtjCci8FgYSMkBKnZRhl7NET",
-  "file_size": 600871030,
-  "release_date": "2025-09-29",
-  "release_notes": "- Version 2.0.4\n\n- Quest tree rebuilt from the ground up, faster and more functional\n- Quest tree Favorites list for quests\n- Search for items to see which quests reward them\n- Search for items to see which quests unlock the ability to craft, buy, or barter them\n\n- Fix to quest dependencies",
-  "checksum": "2fb53aec1e89d90e183dbc8bc6f302522bc871370e569210dc9cf0746b03a53c",
+  "version": "2.0.3",
+  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ9EdiZvkubt8VvqsAK34oiyxfe1pXG6H7JIrZk",
+  "file_size": 590230482,
+  "release_date": "2025-09-11",
+  "release_notes": "- Version 2.0.3\n\n - Fix to broken extract markers from 2.0.2\n- Now when you accept a quest in-game, it is instantly marked as accepted on TarkovQuestie. When you complete it, it is automatically marked as completed.\n- Fixed visual sync issues requiring manual refresh. Quest states now update instantly across all panels when accepting, completing, or resetting quests.\n\nJoin discord for more information about the update and future updates",
+  "checksum": "ff1db7d3306bd5b7913e4f8a76962eb979c68fa26114a5b4bf02f6311a484419",
   "required": true
 }
-

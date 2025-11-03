@@ -1,9 +1,9 @@
 {
-  "version": "2.0.4",
-  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ96vrprT1mIjdCvJ5y91VEAqFWSnPGbks2Z4Uz",
-  "file_size": 600780148,
-  "release_date": "2025-09-29",
-  "release_notes": "- Version 2.0.4\n\n- Quest tree rebuilt from the ground up, faster and more functional\n- Quest tree Favorites list for quests\n- Search for items to see which quests reward them\n- Search for items to see which quests unlock the ability to craft, buy, or barter them\n\n- Fix to quest dependencies",
-  "checksum": "2bf6db549d8f582279e684ed4f95e133bb5610fcfac23dfa44f5898c8d3cfdc3",
+  "version": "2.1.0",
+  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ9zXyxXsQUtyZMvhOXCn6QLix3YGKIc5soe1fW",
+  "file_size": 627725579,
+  "release_date": "2025-11-03",
+  "release_notes": "- Version 2.1.0\n\n- PVE and PVP profiles added\n- Items tracker, track what you have and what you need\n- Auto deduct items you have when completing quests\n- Configurations for hideout Stations integrated with Items Tracker\n- Mini items tracker to be used while gaming\n- You can now remove quests from quest tree and tracking\n- Map side panel quests now show - + buttons for objectives(shoot 10, hand over item,(...))\n- Improved app usage for setups with more than one monitor\n- Improved visibility for big monitors and high DPI\n- Minor bug fixes\n- Improved user experience and commodities",
+  "checksum": "1c41808f62875fd434ac1392822dee7e7e3730af18b8e7c9a9784d2dd2125adc",
   "required": true
 }

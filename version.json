@@ -1,9 +1,9 @@
 {
-  "version": "2.1.0",
-  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ9zXyxXsQUtyZMvhOXCn6QLix3YGKIc5soe1fW",
-  "file_size": 627725579,
-  "release_date": "2025-11-03",
-  "release_notes": "- Version 2.1.0\n\n- PVE and PVP profiles added\n- Items tracker, track what you have and what you need\n- Auto deduct items you have when completing quests\n- Configurations for hideout Stations integrated with Items Tracker\n- Mini items tracker to be used while gaming\n- You can now remove quests from quest tree and tracking\n- Map side panel quests now show - + buttons for objectives(shoot 10, hand over item,(...))\n- Improved app usage for setups with more than one monitor\n- Improved visibility for big monitors and high DPI\n- Minor bug fixes\n- Improved user experience and commodities",
-  "checksum": "1c41808f62875fd434ac1392822dee7e7e3730af18b8e7c9a9784d2dd2125adc",
+  "version": "2.1.1",
+  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ9OVt2IgYsb4I6LtjCci8FgYSMkBKnZRhl7NET",
+  "file_size": 617959269,
+  "release_date": "2025-11-06",
+  "release_notes": "- Version 2.1.1\n\n- New Feature, share your position with friends\n- Fix to mobile phone server launching",
+  "checksum": "7ce55009e310be810ed0a64e5939f59dc393f1735817323fc37f585e8d1671c2",
   "required": true
 }

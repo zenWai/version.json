@@ -1,9 +1,9 @@
 {
-  "version": "2.1.1",
-  "download_url": "https://vz8cny02p1.ufs.sh/f/YOQD1EGWrLZ9OVt2IgYsb4I6LtjCci8FgYSMkBKnZRhl7NET",
-  "file_size": 617959269,
-  "release_date": "2025-11-06",
-  "release_notes": "- Version 2.1.1\n\n- New Feature, share your position with friends\n- Fix to mobile phone server launching",
-  "checksum": "7ce55009e310be810ed0a64e5939f59dc393f1735817323fc37f585e8d1671c2",
+  "version": "2.1.2",
+  "download_url": "https://cdn.tarkovquestie.com/TarkovQuestie_v2.1.2.zip",
+  "file_size": 596832002,
+  "release_date": "2025-11-14",
+  "release_notes": "- Version 2.1.2 Release\n\n- Tarkov releases tomorrow HYPE\n- Fix to the filter by on the loose loot not showing the items that spawn on the map\n- In-game mini items tracker now show the price items can be sold for",
+  "checksum": "ad816a2dcc88fe97d2436bb9627fe04f7750aacac28bd93c30748a8d50db7b6c",
   "required": true
 }

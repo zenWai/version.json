@@ -1,9 +1,9 @@
 {
-  "version": "2.1.2",
-  "download_url": "https://cdn.tarkovquestie.com/TarkovQuestie_v2.1.2.zip",
-  "file_size": 596832002,
-  "release_date": "2025-11-14",
-  "release_notes": "- Version 2.1.2 Release\n\n- Tarkov releases tomorrow HYPE\n- Fix to the filter by on the loose loot not showing the items that spawn on the map\n- In-game mini items tracker now show the price items can be sold for",
-  "checksum": "ad816a2dcc88fe97d2436bb9627fe04f7750aacac28bd93c30748a8d50db7b6c",
+  "version": "2.2.1",
+  "download_url": "https://cdn.tarkovquestie.com/TarkovQuestie_v2.2.1.zip",
+  "file_size": 577866480,
+  "release_date": "2025-11-17",
+  "release_notes": "- Version 2.2.1 Release\n-MAIN QUESTS HYPE, there is now a main quests section, click the update button and you will be getting new info as it is added\n- Log text files reading to know when quests are completed or accepted ingame is fixed\n- Import quest states from logs on quest tree is fixed\n- New way on rendering markers, you will notice markers crisp\n- New way on handling zooming, using minimap or full screen and zooming in and out will be better for all cases by default, feel free to change marker sizes\n- Some fixes to 4k monitors. If you use a 4k monitor with tarkovquestie let me know if it feels good",
+  "checksum": "f3afd44b2dca569d96377e957a618ffc3672568e2b504fddc97afa86b6a7c0e7",
   "required": true
 }

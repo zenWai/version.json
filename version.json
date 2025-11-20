@@ -1,11 +1,9 @@
 {
-  "version": "2.2.2",
-  "download_url": "https://cdn.tarkovquestie.com/TarkovQuestie_v2.2.2.zip",
-  "file_size": 578067186,
-  "release_date": "2025-11-18",
-  "release_notes": "- Version 2.2.2 Release\n\nFixes:\n- Logs system to get states from quests,\nwill work for pve accounts that have not wiped,\nand consistently accept in-game => auto-update and import from logs fix\n\n- Player marker was too big by default - decrease player marker size",
-  "checksum": "07328c347eebf0396b1824ffbe573f8e7a82bc316c3ad0b88cae02f350d1c7c6",
+  "version": "2.2.3",
+  "download_url": "https://cdn.tarkovquestie.com/TarkovQuestie_v2.2.3.zip",
+  "file_size": 578043213,
+  "release_date": "2025-11-20",
+  "release_notes": "- Version 2.2.3 Release\n\nNew features:\n- Map locks can now be chosen individually, improves keys stash management\n- Locks tracked on the items tracker will show on the panel, tracking how many you have before going into raid. NEVER FORGET A KEY AGAIN[maybe]\n- Some Market features changed to be manually set, making it usable on 1.0 again, players can now take advantage of the market features - More Info will be Available on Discord\n\nFixes:\n- Selecting to not center map on player or vice versa would not work before an restart",
+  "checksum": "8804f24d01a73ebd5c6d7eea77f382a2959e7c9106c1bd294c778179cb9af0f4",
   "required": true
 }
-
-

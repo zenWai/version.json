@@ -1,9 +1,9 @@
 {
-  "version": "2.2.3",
-  "download_url": "https://cdn.tarkovquestie.com/TarkovQuestie_v2.2.3.zip",
-  "file_size": 578043213,
-  "release_date": "2025-11-20",
-  "release_notes": "- Version 2.2.3 Release\n\nNew features:\n- Map locks can now be chosen individually, improves keys stash management\n- Locks tracked on the items tracker will show on the panel, tracking how many you have before going into raid. NEVER FORGET A KEY AGAIN[maybe]\n- Some Market features changed to be manually set, making it usable on 1.0 again, players can now take advantage of the market features - More Info will be Available on Discord\n\nFixes:\n- Selecting to not center map on player or vice versa would not work before an restart",
-  "checksum": "8804f24d01a73ebd5c6d7eea77f382a2959e7c9106c1bd294c778179cb9af0f4",
+  "version": "2.2.4",
+  "download_url": "https://cdn.tarkovquestie.com/TarkovQuestie_v2.2.4.zip",
+  "file_size": 551908321,
+  "release_date": "2025-11-29",
+  "release_notes": "- Version 2.2.4 Release\n\n- Player friend markers show in what floor they are at\n- Some fixes to friends markers such as switching colors and others\n- Many improvements on the mobile version, tooltips, performance and more\n- Improvements on mini items tracker search bar, it is easier to search for stuff\n- Improvements on the quest tree to be more functional and useful\n- Market feature is now back to the automatic trader timers from data\n- Many other small fixes that you probably never experienced",
+  "checksum": "727874b04e99fb1c699d0541c0bb995a53843e0b7320361973259ea5d4b68bfc",
   "required": true
 }

@@ -1,9 +1,9 @@
 {
-  "version": "2.2.4",
-  "download_url": "https://cdn.tarkovquestie.com/TarkovQuestie_v2.2.4.zip",
-  "file_size": 551908321,
-  "release_date": "2025-11-29",
-  "release_notes": "- Version 2.2.4 Release\n\n- Player friend markers show in what floor they are at\n- Some fixes to friends markers such as switching colors and others\n- Many improvements on the mobile version, tooltips, performance and more\n- Improvements on mini items tracker search bar, it is easier to search for stuff\n- Improvements on the quest tree to be more functional and useful\n- Market feature is now back to the automatic trader timers from data\n- Many other small fixes that you probably never experienced",
-  "checksum": "727874b04e99fb1c699d0541c0bb995a53843e0b7320361973259ea5d4b68bfc",
+  "version": "2.3.0",
+  "download_url": "https://cdn.tarkovquestie.com/TarkovQuestie_v2.3.0.zip",
+  "file_size": 752828079,
+  "release_date": "2025-12-06",
+  "release_notes": "- Version 2.3.0 Release\n\n- Feature to auto show your hovered item on the mini items tracker.\n- Improved calculations for player coordinates. It is more instantaneous than before.",
+  "checksum": "ac1905d56851f85a089431da950ce89c382c8b7ff4e74f4dc04ae7c50b8c7bed",
   "required": true
 }
